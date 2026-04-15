@@ -1,5 +1,9 @@
 # Student's Dropout Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dropout-prediction-sumitksr.streamlit.app/)
+
+🚀 **Live Demo**: [https://dropout-prediction-sumitksr.streamlit.app/](https://dropout-prediction-sumitksr.streamlit.app/)
+
 This project uses Supervised Machine Learning Classifiers to predict student dropout rates based on various demographic, socioeconomic, and academic performance factors.
 
 ## Dataset Overview
